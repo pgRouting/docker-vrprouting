@@ -1,0 +1,3 @@
+# vrpRouting %%VRPROUTING_VERSION%% (pg%%PG_MAJOR%%)
+
+vrpRouting Docker image (version %%VRPROUTING_VERSION%%) built over [Postgres %%PG_MAJOR%%/PostGIS %%POSTGIS_VERSION%%/pgRouting %%PGROUTING_VERSION%%](https://hub.docker.com/r/pgrouting/pgrouting) and dependencies.
